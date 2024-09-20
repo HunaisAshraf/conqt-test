@@ -14,10 +14,14 @@ To set up the project locally, follow these steps:
    ```bash
    npm install
    ```
-4. Create the env file and the all the environment variables:
+4. Create the env file:
    ```bash
    touch .env
    ```
+5. Add the environment variables
+   DB_USER=your_database_user
+   DB_PASS=your_database_password
+   DB_HOST=your_database_host
 
 ## Usage
 
