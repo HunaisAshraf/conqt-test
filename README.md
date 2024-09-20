@@ -19,9 +19,9 @@ To set up the project locally, follow these steps:
    touch .env
    ```
 5. Add the environment variables
-   DB_USER=your_database_user
-   DB_PASS=your_database_password
-   DB_HOST=your_database_host
+   - DB_USER=your_database_user
+   - DB_PASS=your_database_password
+   - DB_HOST=your_database_host
 
 ## Usage
 
